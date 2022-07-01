@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* NassauTennisMobileAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* NassauTennisMobileAppTests.m */; };
-		0C3A808428408FF7003BF75F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0C3A808328408FF7003BF75F /* GoogleService-Info.plist */; };
 		0C472E1A2815145C00677FF4 /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = 0C472E192815145C00677FF4 /* fonts */; };
+		0CE9409A286ECD38008BB607 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0CE94099286ECD38008BB607 /* GoogleService-Info.plist */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -33,8 +33,8 @@
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* NassauTennisMobileAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NassauTennisMobileAppTests.m; sourceTree = "<group>"; };
 		0A45AF81F4A14C8670488B3B /* libPods-NassauTennisMobileApp-NassauTennisMobileAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NassauTennisMobileApp-NassauTennisMobileAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0C3A808328408FF7003BF75F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		0C472E192815145C00677FF4 /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fonts; sourceTree = "<group>"; };
+		0CE94099286ECD38008BB607 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* NassauTennisMobileApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NassauTennisMobileApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = NassauTennisMobileApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = NassauTennisMobileApp/AppDelegate.mm; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 		13B07FAE1A68108700A75B9A /* NassauTennisMobileApp */ = {
 			isa = PBXGroup;
 			children = (
-				0C3A808328408FF7003BF75F /* GoogleService-Info.plist */,
+				0CE94099286ECD38008BB607 /* GoogleService-Info.plist */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -282,7 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C472E1A2815145C00677FF4 /* fonts in Resources */,
-				0C3A808428408FF7003BF75F /* GoogleService-Info.plist in Resources */,
+				0CE9409A286ECD38008BB607 /* GoogleService-Info.plist in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 			);

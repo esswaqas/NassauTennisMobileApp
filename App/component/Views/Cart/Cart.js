@@ -20,7 +20,7 @@ export default class MyCart extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      isLoading: true,
+      isLoading: false,
       CartItem: [],
       TotalAmount: '',
       TotalAmounts: 0.00,
@@ -83,24 +83,14 @@ export default class MyCart extends Component {
 
     var url =  `Customers/MyCart?customerID=${LoginUserID}&&isBindCart=true`;
     console.log(url)
-    // await fetch(url, {
-    //   method: 'POST',
-    //   headers: {
-    //     'Accept': 'application/json',
-    //     'Content-Type': 'application/json',
-    //   },
-    //   body: JSON.stringify(JSON.parse(Cart))
-    // })
+   
 
     await CallPI('POST',url,JSON.parse(Cart),null,'',null)
     .then((response) =>
       response.json()
     ).then(responseJson => {
       // Showing response message coming from server after inserting records.
-     //console.log(" cart   =  " + JSON.stringify(responseJson))
- 
-
-      this.setState({
+     this.setState({
         CartItem: responseJson.CartList,
         isLoading: false,
         TotalAmount: responseJson.TotalAmount
@@ -108,7 +98,6 @@ export default class MyCart extends Component {
       var amount=   this.state.TotalAmount.split('$')[1]
       this.setState({TotalAmounts: parseFloat(amount).toFixed(2)})
     }).catch(error => {
-     // alert("Error  " + JSON.stringify(error))
       this.setState({ isLoading: false })
 
     });
@@ -238,11 +227,12 @@ export default class MyCart extends Component {
     }
   async componentDidMount() {
 
+    this.setState({isLoading:true})
+
 
     await this.BindCartList()
 
     this.GetActivityMembershipData()
-    //this.setState({CartItem:Cart})
     //  var  Cart =await  AsyncStorage.getItem('AddToCart');
     //  console.log(Cart)
   }
@@ -320,7 +310,6 @@ this.setState({buttonText:'Continue with Clinic Registration' })
   CancelAlert={this.CancelAlert}
 />
        <Loader loading={this.state.isLoading} /> 
-        <Loader loading={this.state.isLoading} />
         <FlatList
           data={this.state.CartItem}
           renderItem={this.rederItems}

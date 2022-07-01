@@ -280,7 +280,7 @@ export default class Payment extends React.Component {
 
                 isUseFileCredit: false,
                 Editable: true,
-                IsKeepOnFile: false,
+                IsKeepOnFile: true,
                 CardHolderName: '',
                 CardNumber: '',
                 Address: '',
