@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">321185306240-h6ip8bhnnkq8ule2amr4puh96jb7i1im.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">321185306240</string>
+    <string name="google_api_key" translatable="false">AIzaSyCp8jrBjgTtOsg5dLrPtX9I7_ziz5XcSPw</string>
+    <string name="google_app_id" translatable="false">1:321185306240:android:fa750c3436c7f4c73d7865</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCp8jrBjgTtOsg5dLrPtX9I7_ziz5XcSPw</string>
+    <string name="google_storage_bucket" translatable="false">nassau-tennis-club.appspot.com</string>
+    <string name="project_id" translatable="false">nassau-tennis-club</string>
+</resources>

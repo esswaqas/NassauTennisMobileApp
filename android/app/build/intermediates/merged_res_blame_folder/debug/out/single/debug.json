@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_iconcheckboxchecked.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_iconcheckboxchecked.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_requestmakeup.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_requestmakeup.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_myreservations.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_myreservations.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_dashboardicons_approvedregistrations.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_dashboardicons_approvedregistrations.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_dashboardicons_registration.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_dashboardicons_registration.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_leftsidemenuicons_logout.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_leftsidemenuicons_logout.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_leftsidemenuicons_friends.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_leftsidemenuicons_friends.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_leftsidemenuicons_courtscheduler.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_leftsidemenuicons_courtscheduler.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_membershipregistration.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_membershipregistration.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_cross.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_cross.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_dropinclass.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_dropinclass.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_managecontacts.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_managecontacts.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_leftsidemenuicons_classmanager.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_leftsidemenuicons_classmanager.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_dashboardicons_pendingregistrations.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_dashboardicons_pendingregistrations.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_dashboardicons_announcement.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_dashboardicons_announcement.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_leagueregistration.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_leagueregistration.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_homslider6.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_homslider6.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_radio02.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_radio02.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_delete02.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_delete02.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_dashboardicons_upcomingevents.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_dashboardicons_upcomingevents.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_dashboardicons_classmanager.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_dashboardicons_classmanager.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_dashboardicons_schedulerbookings.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_dashboardicons_schedulerbookings.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_dashboardicons_courtscheduler.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_dashboardicons_courtscheduler.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_uncheckbox.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_uncheckbox.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_iconcheckbox.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_iconcheckbox.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_homslider3.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_homslider3.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_shoopingcart.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_shoopingcart.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-mdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_leftsidemenuicons_toppart.jpg.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_leftsidemenuicons_toppart.jpg"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_leftsidemenuicons_registration.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_leftsidemenuicons_registration.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativeselectmultiple_images_iconcheckbox.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeselectmultiple_images_iconcheckbox.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativeselectmultiple_images_iconcheckboxchecked.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeselectmultiple_images_iconcheckboxchecked.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_share.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_share.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_campregistration.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_campregistration.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_friendhistory.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_friendhistory.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_edit.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_edit.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_homslider5.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_homslider5.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_leftsidemenuicons_user.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_leftsidemenuicons_user.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_logo.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_logo.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_absencehistory.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_absencehistory.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_clinicregistration.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_clinicregistration.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_radio01.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_radio01.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_homslider2.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_homslider2.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_viewscheduler.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_viewscheduler.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_checkedbox.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_checkedbox.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_otherregistration.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_otherregistration.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-hdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_backgroundpictures_loginbg.jpg.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_backgroundpictures_loginbg.jpg"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_calendar.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_calendar.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_leftsidemenuicons_dashboard.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_leftsidemenuicons_dashboard.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_invitefriend.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_invitefriend.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_homslider4.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_homslider4.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_reportabsence.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_reportabsence.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_homslider1.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_homslider1.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_faq.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_faq.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_friendlist.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_friendlist.png"
+    },
+    {
+        "merged": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/build/intermediates/merged_res/debug/drawable-mdpi_app_images_icon_paysharing.png.flat",
+        "source": "/Users/essmac/Desktop/NassauTennisMobileApp/android/app/src/main/res/drawable-mdpi/app_images_icon_paysharing.png"
+    }
+]

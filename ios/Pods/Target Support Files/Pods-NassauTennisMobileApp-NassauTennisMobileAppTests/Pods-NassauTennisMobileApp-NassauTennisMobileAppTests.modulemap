@@ -1,0 +1,6 @@
+module Pods_NassauTennisMobileApp_NassauTennisMobileAppTests {
+  umbrella header "Pods-NassauTennisMobileApp-NassauTennisMobileAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

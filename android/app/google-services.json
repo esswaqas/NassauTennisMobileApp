@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321185306240",
+    "project_id": "nassau-tennis-club",
+    "storage_bucket": "nassau-tennis-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321185306240:android:fa750c3436c7f4c73d7865",
+        "android_client_info": {
+          "package_name": "com.nassautennismobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321185306240-h6ip8bhnnkq8ule2amr4puh96jb7i1im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8jrBjgTtOsg5dLrPtX9I7_ziz5XcSPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321185306240-h6ip8bhnnkq8ule2amr4puh96jb7i1im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
